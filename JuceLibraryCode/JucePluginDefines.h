@@ -155,7 +155,7 @@
  #define JucePlugin_ARAFactoryID           "com.NatRiddle.Fazed.factory"
 #endif
 #ifndef  JucePlugin_ARADocumentArchiveID
- #define JucePlugin_ARADocumentArchiveID   "com.NatRiddle.Fazed.aradocumentarchive.0.3.0"
+ #define JucePlugin_ARADocumentArchiveID   "com.NatRiddle.Fazed.aradocumentarchive.1.0.0"
 #endif
 #ifndef  JucePlugin_ARACompatibleArchiveIDs
  #define JucePlugin_ARACompatibleArchiveIDs  ""
