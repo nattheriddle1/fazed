@@ -1,11 +1,11 @@
-/*
-  ==============================================================================
+#include <JuceHeader.h>
+#include "PluginProcessor.h"
+#include "PluginEditor.h"
 
-    Main.cpp
-    Created: 24 Jan 2024 12:37:46pm
-    Author:  Nat Riddle
+juce::AudioProcessorEditor *FazedAudioProcessor::createEditor() {
+    return new FazedAudioProcessorEditor(*this);
+};
 
-  ==============================================================================
-*/
-
-#include "Main.h"
+juce::AudioProcessor *JUCE_CALLTYPE createPluginFilter() {
+    return new FazedAudioProcessor();
+}
