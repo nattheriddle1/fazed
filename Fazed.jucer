@@ -5,7 +5,7 @@
               companyName="Nat Riddle" companyCopyright="&#169;2024 by Nat Riddle"
               companyWebsite="github.com/nattheriddle1" companyEmail="nattheriddle1@gmail.com"
               pluginManufacturerCode="Natr" pluginCode="Fazd" pluginVST3Category="Delay,Fx"
-              pluginAAXCategory="16,8192">
+              pluginAAXCategory="16,8192" version="0.3.0">
   <MAINGROUP id="TX0Ryx" name="Fazed">
     <GROUP id="{3BAD5AE2-19C6-211D-CBB3-1F1DA485CE06}" name="Source">
       <FILE id="Bxwy2B" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>

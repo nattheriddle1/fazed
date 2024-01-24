@@ -18,9 +18,9 @@
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
+    <string>0.3.0</string>
     <key>CFBundleVersion</key>
-    <string>1.0.0</string>
+    <string>0.3.0</string>
     <key>NSHumanReadableCopyright</key>
     <string>&#169;2024 by Nat Riddle</string>
     <key>NSHighResolutionCapable</key>
@@ -41,7 +41,7 @@
         <key>subtype</key>
         <string>Fazd</string>
         <key>version</key>
-        <integer>65536</integer>
+        <integer>768</integer>
         <key>resourceUsage</key>
         <dict>
           <key>network.client</key>
